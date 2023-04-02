@@ -75,7 +75,8 @@ print("RMSE = ",rmse)
 */
 ## Output:
 df.head
-"C:\Users\SEC\Pictures\Screenshots\Screenshot 2023-04-02 145220.png"
+
+![Screenshot 2023-04-02 145220](https://user-images.githubusercontent.com/121932143/229349660-46cfebd3-3fab-4bb3-94aa-50d51567bbaa.png)
 
 
 
