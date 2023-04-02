@@ -77,7 +77,7 @@ print("RMSE = ",rmse)
 df.head
 
 
-![Screenshot 2023-04-02 145220](https://user-images.githubusercontent.com/121932143/229345126-882503d3-a672-440f-81c5-c4c62f991d96.png)
+![Screenshot 2023-04-02 145220](https://user-images.githubusercontent.com/121932143/229348958-4ea1a3a7-a1a3-491e-b52b-e6e0c82008b5.png)
 
 
 df.ta!
