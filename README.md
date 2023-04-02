@@ -22,7 +22,7 @@ Program to implement the simple linear regression model for predicting the marks
 Developed by: Divakar R
 RegisterNumber: 212222240026 
 */
-```
+/*
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt 
@@ -72,7 +72,7 @@ mae=mean_absolute_error(y_test,y_pred)
 print("MAE = ",mae)
 rmse=np.sqrt(mse)
 print("RMSE = ",rmse)
-```
+*/
 ## Output:
 df.head
 
