@@ -75,8 +75,12 @@ print("RMSE = ",rmse)
 ```
 ## Output:
 df.head
-![image](https://user-images.githubusercontent.com/121932143/229344567-6a41525b-483f-4216-83fc-bcac39c42aef.png)
-df.tail
+
+
+![Screenshot 2023-04-02 145220](https://user-images.githubusercontent.com/121932143/229345126-882503d3-a672-440f-81c5-c4c62f991d96.png)
+
+
+df.ta!
 ![image](https://user-images.githubusercontent.com/121932143/229344637-92ae6ae0-d302-4dee-a036-8d52484478e9.png)
 value of X:
 
