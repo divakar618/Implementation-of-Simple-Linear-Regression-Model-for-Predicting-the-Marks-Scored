@@ -82,23 +82,29 @@ df.head
 
 
 
-df.ta!
+df.tail
 ![image](https://user-images.githubusercontent.com/121932143/229344637-92ae6ae0-d302-4dee-a036-8d52484478e9.png)
 value of X:
 
 ![image](https://user-images.githubusercontent.com/121932143/229344660-de5c7901-4dbd-428c-886d-75d9142c1fcb.png)
 value of y:
+
 ![image](https://user-images.githubusercontent.com/121932143/229344700-15942d83-e2d2-46b4-b7be-22ff69629257.png)
 predicted value of Y:
+
 ![image](https://user-images.githubusercontent.com/121932143/229344732-fededdd8-1a01-47e9-a3ff-45d307463a30.png)
 
 Tested value of Y:
+
 ![image](https://user-images.githubusercontent.com/121932143/229344774-9135e2c0-80aa-4a3d-8316-e7d9ebd85acb.png)
 Graph for Training Set:
+
 ![image](https://user-images.githubusercontent.com/121932143/229344809-eb10199e-58f5-48f6-9d1e-2b70daa95128.png)
 Graph for Test Set:
+
 ![image](https://user-images.githubusercontent.com/121932143/229344853-0e78a933-b4e8-44c1-b8e9-c78d923e0ddd.png)
 Value for MSE, MAE, RMSE:
+
 ![image](https://user-images.githubusercontent.com/121932143/229344894-8a805956-d05e-471b-a884-56cbd466b773.png)
 
 
